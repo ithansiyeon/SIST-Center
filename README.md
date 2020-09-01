@@ -36,6 +36,10 @@
         <th>개발도구</th>
         <th colspan="3">Eclipse IDE, Oracle DBMS</th>
     </tr>
+     <tr>
+          <th>사용기술</th>
+          <th colspan="3">JDBC</th>
+      </tr>
 </table>
 
 
