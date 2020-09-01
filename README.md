@@ -11,7 +11,7 @@
     </tr>
     <tr>
         <th>프로젝트 성격</th>
-        <th>Oracle DBMS & JDBC api를 활용한 콘솔 프로그램</th>
+        <th>Oracle DBMS & JDBC api를 활용한 <br>콘솔 프로그램</th>
         <th>개발인원</th>
         <th>팀 / 6명<br>
             <a href="https://github.com/leeho1110">이호</a> | <a href="https://github.com/chanu2757">김찬우</a>｜<a href="https://github.com/ithansiyeon">한시연</a>｜<a href="https://github.com/Doyun-Claire-Lee">이도윤</a>｜<a href="https://github.com/Yerim-Choi">최예림</a>｜<a href="https://github.com/12345hejun">오희준</a> 
