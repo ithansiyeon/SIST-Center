@@ -1,6 +1,6 @@
 ## 🍋 LMS Joo : Oracle DBMS & JDBC api 를 사용한 교육관리 시스템입니다.
-
-<img src="https://user-images.githubusercontent.com/62372281/89610472-8cbb8080-d8b5-11ea-90b4-1b12e292cab2.PNG"></img>
+![메인](https://user-images.githubusercontent.com/66079830/91794191-650dcd00-ec55-11ea-88f4-438f6dbcf61e.png)
+<img src="https://user-images.githubusercontent.com/66079830/91794184-5fb08280-ec55-11ea-8694-da75f775c824.png"></img>
     
 ### 👋 Introduction
 <table>
