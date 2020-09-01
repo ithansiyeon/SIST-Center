@@ -26,7 +26,7 @@
     </tr>
     <tr>
         <th>개발언어</th>
-        <th colspan="3">Java(JDK 1.8) </th>
+        <th colspan="3">Java(JDK 1.8), Oracle SQL</th>
     </tr>
     <tr>
         <th>형상관리</th>
