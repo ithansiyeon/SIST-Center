@@ -1,4 +1,4 @@
-## 🍋 LMS Project : Oracle DBMS & JDBC api 를 사용한 교육관리 시스템입니다.
+## 🍋 lms-project : Oracle DBMS & JDBC api 를 사용한 교육관리 시스템입니다.
 ![메인](https://user-images.githubusercontent.com/66079830/91794191-650dcd00-ec55-11ea-88f4-438f6dbcf61e.png)
     
 ### 👋 Introduction
